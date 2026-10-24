@@ -1,0 +1,4 @@
+tee
+out.txt
+*.o
+.DS_Store
